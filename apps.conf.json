@@ -71,6 +71,13 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
-    }
+    },
+{
+        "name": "Connect",
+      "title": "ConnectSCM",
+      "name_zh": "Connect",
+      "url": "https://issconnect.id.issworld.com/ISS_Connect/Login.aspx"
+}
+    
   ]
 }
